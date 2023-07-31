@@ -57,3 +57,35 @@ h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* ocean imagae */
+
+#ocean-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#ocean-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/ocean.jpg') no-repeat center center;
+
+    /* animates zoom effect on loading page*/
+
+    animation-name: ocean-zoom;
+    animation-duration: 7s;
+    animation-fill-mode: forwards;
+}
+
+/* creates the zoom levels for ocean-image */
+
+@keyframes ocean-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
