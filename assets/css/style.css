@@ -191,3 +191,25 @@ hr {
     background: url('../images/grass.jpg') no-repeat center center;
     background-size: cover;
 }
+
+
+/* footer */
+
+footer {
+    height: 200 px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 1000%;
+    margin: 50px;
+    padding: 100px;
+    color: #fafafa;
+}
