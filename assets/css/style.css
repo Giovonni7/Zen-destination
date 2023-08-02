@@ -144,14 +144,9 @@ h2 {
 
 }
 
-hr {
-    border-top: 1px;
-    width: 100%;
-    margin: 5px 0;
-}
 
 .left-about-heading {
-    width: 60%;
+    width: 75%;
     float: right;
     line-height: 20px;
     margin-bottom: 50px;
@@ -208,8 +203,204 @@ footer {
 }
 
 .social-networks i {
-    font-size: 1000%;
-    margin: 50px;
-    padding: 100px;
+    font-size: 500%;
+    margin-bottom: 5px;
+    padding: 5px;
     color: #fafafa;
+}
+
+/* media queries*/
+
+/* for large to medium screens size from 1200px wide and down*/
+@media screen and (max-width: 1200px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+    }
+
+    #summary {
+        width: 65%;
+        height: 300px;
+        margin: 0 auto;
+    }
+
+    #zenfacts {
+        padding: 30px 0;
+    }
+
+    #left-about {
+        width: 100%;
+        float: left;
+        margin: 0;
+    }
+
+    #right-about {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+
+
+    #center-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        margin: 0;
+    }
+
+}
+
+/* for medium screen sizes from 950px wide and down */
+
+
+
+
+@media screen and (max-width: 950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+    }
+
+
+    #summary {
+
+        float: center;
+    }
+
+
+
+
+    #cover-text {
+
+        left: 0;
+
+    }
+
+
+
+
+    #zen-facts {
+
+        width: 90%;
+
+        height: 1200px;
+
+        margin: 0 auto;
+
+    }
+
+
+
+
+    .left-about-heading h2,
+
+    .right-about-heading h2 {
+
+        width: 100%;
+
+        text-align: center;
+
+    }
+
+
+
+
+    .left-about-heading li,
+
+    .right-about-heading li {
+
+        text-align: center;
+        margin: 0 auto;
+        list-style-type: none;
+    }
+
+
+    .center-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .center-about-heading li {
+        clear: both;
+        text-align: center;
+        list-style-type: none;
+    }
+}
+
+/* for medium screen sizes from 800px wide and down */
+
+
+@media screen and (max-width: 800x) {
+
+
+
+    #summary {
+
+        float: center;
+    }
+
+
+
+
+    #cover-text {
+
+        left: 0;
+
+    }
+
+
+
+
+    #zen-facts {
+
+        width: 90%;
+
+        height: 1200px;
+
+        margin: 0 auto;
+
+    }
+
+
+
+
+    .left-about-heading h2,
+
+    .right-about-heading h2 {
+
+        width: 100%;
+
+        text-align: center;
+
+    }
+
+
+
+
+    .left-about-heading li,
+
+    .right-about-heading li {
+
+        text-align: center;
+        margin: 0 auto;
+        list-style-type: none;
+    }
+
+
+    .center-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .center-about-heading li {
+        clear: both;
+        text-align: center;
+        list-style-type: none;
+    }
+
+
 }
