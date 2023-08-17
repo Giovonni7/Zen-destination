@@ -1,39 +1,99 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Zen Destination
 
-Welcome,
+Zen destiniation is a website created to inform everyday people about self improvement through medition , mindfulness and yoga. The website was designed to target individuals who might be looking for a better quality of life or just more peace through improving the mind and body. Zen destination will be useful to individuals by informing them about basic techniques geared towards improving the mind and body.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Features 
+<hr>
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+### Existing Features
 
-## Codeanywhere Reminders
+* Navigation Bar
+ 
+  * Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Meditation page, Mindfulness page and Yoga page and  is identical in each page to allow for easy navigation.
+ 
+  * This section will allow the user to simply navigate from page to page across all devices without having to revert back to the previous page using the ‘back’ button.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+* Landing page image
+  
+  * The landing includes a photograph with text overlay informing users what the goal of the website is.
 
-`python3 -m http.server`
+  * This section introduces the user to Zen Destination with an eye catching animation to get their attention.
+  
+* Site Summary section 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+  * This section identifies the three practices that Zen destination incorporates to equip its users.
+  
+  * This section is used to further grab user interest by listing benifits correlating to the three practices respectively.
+  
+* The Footer
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+  * The footer section includes links to the relevant social media sites for Zen Destination where the user could find more information.
+  
+  * The links will open in a new tab to allow easy navigation for the user.
+  
+  * The footer features an image to help add flavor and contrast to the social media icons.
+  
+* Meditation page
+  
+  * This page will inform users on what meditation is and everything they need to know about the basics of meditation.
+  
+  * This page includes a video that demonstrates some good meditation techniques.
 
-`http_server`
+* Mindfulness page
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+  * This page teaches users about mindfulness and introduces users to a mindfulness exercise called body scanning.
+  
+  * This page features a short video that aims to help you keep focused through out the day by teaching you the practice of body scanning.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* Yoga page 
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+  * This page uses a video to teach users a few basic yoga exercises that can be done at any time of the day. 
+  
+  * The yoga page is important to users looking to improve their physical health. 
 
-To log into the Heroku toolbelt CLI:
+* Features left to implement 
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+  * Possibly add more features to each page.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Testing
+<hr>
 
----
+### Validator testing 
 
-Happy coding!
+* Html
+  
+  * No errors where returned when passing through the official  
+
+* Css
+  
+  * No errors where returned when passing through the official 
+
+### Unfixed bugs 
+
+## Deployment 
+<hr>
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+  
+  * In the GitHub repository, navigate to the Settings tab
+
+  * From the source section drop-down menu, select the Master Branch
+
+  * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here -
+
+## Credits
+<hr>
+
+### Content
+
+* The icons used through out the site are from [FontAwsome](https://fontawesome.com/)
+
+### Media 
+
+* The photos used in this project are from [Pexels](https://www.pexels.com/)
+
+* The videos used in this project are from [Youtube](https://www.youtube.com/)
+
+    
