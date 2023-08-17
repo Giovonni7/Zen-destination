@@ -405,12 +405,30 @@ footer {
 
 }
 
-/* for medium screen sizes from 650px wide and down */
+/* for small screen sizes from 650px wide and down */
 
 
 @media screen and (max-width: 650px) {
 
     #logo {
-        transform: scale(0.75);
+        transform: 100%;
+        font-size: 200%;
+        float: left;
+        margin: 10px;
+        padding: 0;
+    }
+}    
+
+/* for small screen sizes from 350px wide and down */
+
+
+@media screen and (max-width: 350px) {
+
+    #logo {
+        transform: 100%;
+        font-size: 200%;
+        float: left;
+        margin: 10px;
+        padding: 0;
     }
 }    
