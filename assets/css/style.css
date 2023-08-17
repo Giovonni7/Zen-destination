@@ -335,8 +335,7 @@ footer {
 /* for medium screen sizes from 800px wide and down */
 
 
-@media screen and (max-width: 800x) {
-
+@media screen and (max-width: 800px) {
 
 
     #summary {
@@ -405,3 +404,13 @@ footer {
 
 
 }
+
+/* for medium screen sizes from 650px wide and down */
+
+
+@media screen and (max-width: 650px) {
+
+    #logo {
+        transform: scale(0.75);
+    }
+}    
