@@ -90,7 +90,14 @@ Zen destiniation is a website created to inform everyday people about self impro
   
   * No errors where returned when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fgiovonni7.github.io%2FZen-destination%2Findex.html&usermedium=all&vextwarning=&warning=1)
 
+
+* I confirmed that colors and fonts chosen are easy to read and are accessible by running the project through lighthouse in devtools
+  
+![Screenshot of lighthouse assessment score](../Zen-destination/assets/images/score.jpg)  
+
 ### Unfixed bugs 
+
+* Make project perform faster 
 
 ## Deployment 
 <hr>
