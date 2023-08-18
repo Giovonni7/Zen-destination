@@ -57,7 +57,7 @@ Zen destiniation is a website created to inform everyday people about self impro
   
   * This page features a short video that aims to help you keep focused through out the day by teaching you the practice of body scanning.
 
-![Screenshot of Mindfulness page](../Zen-destination/assets/images/)
+![Screenshot of Mindfulness page](../Zen-destination/assets/images/mindful-sc.jpg)
 
 * Yoga page 
 
