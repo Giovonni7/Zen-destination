@@ -2,7 +2,7 @@
 
 Zen destiniation is a website created to inform everyday people about self improvement through medition , mindfulness and yoga. The website was designed to target individuals who might be looking for a better quality of life or just more peace through improving the mind and body. Zen destination will be useful to individuals by informing them about basic techniques geared towards improving the mind and body.
 
-![screenshot of webpage on different devices](../Zen-destination/assets/images/zen1.jpg)
+![screenshot of webpage on different devices](/assets/images/zen1.jpg)
 
 ## Features
 
@@ -14,7 +14,7 @@ Zen destiniation is a website created to inform everyday people about self impro
 
   * This section will allow the user to simply navigate from page to page across all devices without having to revert back to the previous page using the ‘back’ button.
 
-  ![Screenshot of Navigation bar](../Zen-destination/assets/images/nav-bar.jpg)
+  ![Screenshot of Navigation bar](/assets/images/nav-bar.jpg)
 
 * Landing page image
   
@@ -22,7 +22,7 @@ Zen destiniation is a website created to inform everyday people about self impro
 
   * This section introduces the user to Zen Destination with an eye catching animation to get their attention.
 
-![Screenshot of Zen Destination landing page](../Zen-destination/assets/images/ocean2.jpg)
+![Screenshot of Zen Destination landing page](/assets/images/ocean2.jpg)
   
 * Site Summary section
 
@@ -30,7 +30,7 @@ Zen destiniation is a website created to inform everyday people about self impro
   
   * This section is used to further grab user interest by listing benifits correlating to the three practices respectively.
 
-![Screenshot of Site Summary section](../Zen-destination/assets/images/Zenfacts.jpg)
+![Screenshot of Site Summary section](/assets/images/Zenfacts.jpg)
   
 * The Footer
 
@@ -40,7 +40,7 @@ Zen destiniation is a website created to inform everyday people about self impro
   
   * The footer features an image to help add flavor and contrast to the social media icons.
   
-![Screenshot of Footer](../Zen-destination/assets/images/Grasslinks.jpg)
+![Screenshot of Footer](/assets/images/Grasslinks.jpg)
 
 * Meditation page
   
@@ -48,7 +48,7 @@ Zen destiniation is a website created to inform everyday people about self impro
   
   * This page includes a video that demonstrates some good meditation techniques.
 
-![Screenshot of Meditation page](../Zen-destination/assets/images/meditate-sc.jpg)
+![Screenshot of Meditation page](/assets/images/meditate-sc.jpg)
 
 * Mindfulness page
 
@@ -56,7 +56,7 @@ Zen destiniation is a website created to inform everyday people about self impro
   
   * This page features a short video that aims to help you keep focused through out the day by teaching you the practice of body scanning.
 
-![Screenshot of Mindfulness page](../Zen-destination/assets/images/mindful-sc.jpg)
+![Screenshot of Mindfulness page](/assets/images/mindful-sc.jpg)
 
 * Yoga page
 
@@ -64,7 +64,7 @@ Zen destiniation is a website created to inform everyday people about self impro
   
   * The yoga page is important to users looking to improve their physical health.
 
-![Screenshot of Yoga page](../Zen-destination/assets/images/yoga-sc.jpg)
+![Screenshot of Yoga page](/assets/images/yoga-sc.jpg)
 
 * Features left to implement
 
@@ -90,7 +90,7 @@ Zen destiniation is a website created to inform everyday people about self impro
 
 * I confirmed that colors and fonts chosen are easy to read and are accessible by running the project through lighthouse in devtools
   
-![Screenshot of lighthouse assessment score](../Zen-destination/assets/images/score.jpg)  
+![Screenshot of lighthouse assessment score](/assets/images/score.jpg)  
 
 ### Unfixed bugs
 
