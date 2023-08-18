@@ -2,6 +2,8 @@
 
 Zen destiniation is a website created to inform everyday people about self improvement through medition , mindfulness and yoga. The website was designed to target individuals who might be looking for a better quality of life or just more peace through improving the mind and body. Zen destination will be useful to individuals by informing them about basic techniques geared towards improving the mind and body.
 
+![screenshot of webpage on different devices](../Zen-destination/assets/images/zen1.jpg)
+
 ## Features 
 <hr>
 
@@ -13,17 +15,23 @@ Zen destiniation is a website created to inform everyday people about self impro
  
   * This section will allow the user to simply navigate from page to page across all devices without having to revert back to the previous page using the ‘back’ button.
 
+  ![Screenshot of Navigation bar](../Zen-destination/assets/images/nav-bar.jpg)
+
 * Landing page image
   
   * The landing includes a photograph with text overlay informing users what the goal of the website is.
 
   * This section introduces the user to Zen Destination with an eye catching animation to get their attention.
+
+![Screenshot of Zen Destination landing page](../Zen-destination/assets/images/ocean2.jpg)
   
 * Site Summary section 
 
   * This section identifies the three practices that Zen destination incorporates to equip its users.
   
   * This section is used to further grab user interest by listing benifits correlating to the three practices respectively.
+
+![Screenshot of Site Summary section](../Zen-destination/assets/images/Zenfacts.jpg)
   
 * The Footer
 
@@ -33,11 +41,15 @@ Zen destiniation is a website created to inform everyday people about self impro
   
   * The footer features an image to help add flavor and contrast to the social media icons.
   
+![Screenshot of Footer](../Zen-destination/assets/images/Grasslinks.jpg)
+
 * Meditation page
   
   * This page will inform users on what meditation is and everything they need to know about the basics of meditation.
   
   * This page includes a video that demonstrates some good meditation techniques.
+
+![Screenshot of Meditation page](../Zen-destination/assets/images/meditate-sc.jpg)
 
 * Mindfulness page
 
@@ -45,11 +57,15 @@ Zen destiniation is a website created to inform everyday people about self impro
   
   * This page features a short video that aims to help you keep focused through out the day by teaching you the practice of body scanning.
 
+![Screenshot of Mindfulness page](../Zen-destination/assets/images/)
+
 * Yoga page 
 
   * This page uses a video to teach users a few basic yoga exercises that can be done at any time of the day. 
   
   * The yoga page is important to users looking to improve their physical health. 
+
+![Screenshot of Yoga page](../Zen-destination/assets/images/yoga-sc.jpg)
 
 * Features left to implement 
 

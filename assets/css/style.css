@@ -192,7 +192,7 @@ h2 {
 /* footer */
 
 footer {
-    height: 200 px;
+    height: 200px;
 }
 
 .social-networks {
@@ -269,7 +269,7 @@ footer {
 
     #summary {
 
-        float: center;
+        text-align: center;
     }
 
 
@@ -340,7 +340,7 @@ footer {
 
     #summary {
 
-        float: center;
+        text-align: center;
     }
 
 
@@ -411,7 +411,7 @@ footer {
 @media screen and (max-width: 650px) {
 
     #logo {
-        transform: 100%;
+
         font-size: 200%;
         float: left;
         margin: 10px;
@@ -425,7 +425,6 @@ footer {
 @media screen and (max-width: 350px) {
 
     #logo {
-        transform: 100%;
         font-size: 150%;
         float: left;
         margin: 10px;
