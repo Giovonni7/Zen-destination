@@ -74,11 +74,17 @@ Zen destiniation is a website created to inform everyday people about self impro
 ## Testing
 <hr>
 
+* I tested that this website works on different browsers: Chrome, Safari, Firefox
+
+* I confirmed that the website is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar  
+ 
+* I confirmed that all content in this project is visible and simple to understand 
+
 ### Validator testing 
 
 * Html
   
-  * No errors where returned when passing through the official [WC3 validator]() 
+  * No errors where returned when passing through the official [WC3 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgiovonni7.github.io%2FZen-destination%2Findex.html) 
 
 * Css
   
@@ -93,11 +99,13 @@ Zen destiniation is a website created to inform everyday people about self impro
   
   * In the GitHub repository, navigate to the Settings tab
 
+  * In the Settings menu, navigate to pages  
+
   * From the source section drop-down menu, select the Master Branch
 
   * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here -
+The live link can be found here - https://giovonni7.github.io/Zen-destination/
 
 ## Credits
 <hr>
