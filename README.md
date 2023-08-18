@@ -78,11 +78,11 @@ Zen destiniation is a website created to inform everyday people about self impro
 
 * Html
   
-  * No errors where returned when passing through the official  
+  * No errors where returned when passing through the official [WC3 validator]() 
 
 * Css
   
-  * No errors where returned when passing through the official 
+  * No errors where returned when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fgiovonni7.github.io%2FZen-destination%2Findex.html&usermedium=all&vextwarning=&warning=1)
 
 ### Unfixed bugs 
 
